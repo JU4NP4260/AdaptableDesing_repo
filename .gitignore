@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 .cache/
 .parcel-cache/
+/node_modules
